@@ -4,13 +4,13 @@ This Reflections Project is a collection of jupyter notebooks while practising *
 
 ## List of completed exercises
 
--[x] README.md
--[x] Exercise-1
--[x] Exercise-2
--[x] Exercise-3
--[x] Exercise-4
--[x] Exercise-5
--[x] Exercise-6
+- [x] README.md
+- [x] Exercise-1
+- [x] Exercise-2
+- [x] Exercise-3
+- [x] Exercise-4
+- [x] Exercise-5
+- [x] Exercise-6
 
 ### Prerequisites
 
